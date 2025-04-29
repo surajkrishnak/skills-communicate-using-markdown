@@ -6,3 +6,4 @@
 # i just shared my view point about mulearn thats what i majorly changed in this.
 # now just adding an image for fun:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+var myVar = "Hello, world!";
