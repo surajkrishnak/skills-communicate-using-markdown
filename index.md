@@ -12,4 +12,4 @@ var myVar = "Hello, world!";
 
 - [x] sinnan is good
 - [x] sinnan is great
-- [ ] sinnan is a fool
+- [ ] sinnan is insane
